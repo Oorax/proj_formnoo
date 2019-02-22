@@ -6,3 +6,4 @@ __pycache__/
 local_settings.py
 db.mysql
 media
+db.sqlite3
